@@ -12,5 +12,8 @@ public class FirstClass {
         System.out.println("4444444444444");
         System.out.println("5555555555555555");
         System.out.println("6666666666");
+        System.out.println("67777777777777");
+        System.out.println("8888888888888");
+        System.out.println("999999999999999");
     }
 }
